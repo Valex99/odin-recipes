@@ -1,0 +1,71 @@
+html {
+    background-color: rgb(192, 196, 194);
+}
+
+h1.main-header {
+    background-color: lightgray;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding: 5px;
+}
+
+
+p {
+    color: rgb(81, 92, 92);
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
+
+.pizza,
+.lasagna,
+.cake {
+    color: brown;
+    text-align: center;
+}
+
+.pizza-image {
+    border-radius: 500px;
+    display: block;
+    margin: auto;
+    margin-bottom: 40px;
+}
+
+.lasagna-image {
+    border-radius: 20px;
+    display: block;
+    margin: auto;
+    margin-bottom: 40px; 
+}
+
+h2 {
+    color: brown;
+    text-align: center;
+    margin-top: 50px;
+}
+
+h3 {
+    color: rgb(94, 39, 39);
+    text-align: center;
+    margin-top: 12px; 
+}
+
+div {
+    width: 500px;
+    text-align: center;
+    margin: auto;
+}
+
+ul {
+    text-align: center;
+}
+
+li {
+    color: rgb(81, 92, 92);
+    font-size: 20px;
+    list-style-position: inside
+}
+
+.steps {
+    margin: 20px auto;
+}
